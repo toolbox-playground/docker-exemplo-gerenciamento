@@ -54,5 +54,5 @@ Lista os processos rodando dentro de um contêiner.
 **Tarefa:**
 - Execute um contêiner usando `docker run -d nginx`.
 - Identifique o ID do contêiner usando `docker ps`.
-- Use o comando `docker top <ID do contêiner>` para listar os processos rodando dentro do contêiner.
+- Use o comando `docker top <CONTAINER ID>` para listar os processos rodando dentro do contêiner.
 - Observe a saída do comando.
